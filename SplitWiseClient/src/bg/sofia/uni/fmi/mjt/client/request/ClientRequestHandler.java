@@ -1,4 +1,4 @@
-package bg.sofia.uni.fmi.mjt.request;
+package bg.sofia.uni.fmi.mjt.client.request;
 
 import java.io.*;
 
